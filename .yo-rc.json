@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.0",
+    "libraryName": "spx-vue-starter",
+    "libraryId": "677e552b-443b-4575-9d7c-2ac5c59d39e0",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

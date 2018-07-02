@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spx-vue-starter-client-side-solution",
+    "id": "677e552b-443b-4575-9d7c-2ac5c59d39e0",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/spx-vue-starter.sppkg"
+  }
+}
